@@ -1,0 +1,19 @@
+{
+  "name": "kc-mime-list",
+  "version": "1.0.3",
+  "description": "[js] A list of mime types.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/js-mime-list.git"
+  },
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/js-mime-list/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/js-mime-list",
+  "dependencies": {
+    "fun2mod": "^1.0.3"
+  }
+}
